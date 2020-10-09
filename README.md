@@ -2,8 +2,7 @@
 
 Dit is (de code van) een demo van een simpele chatbot.
 
-Linke naar live demo: https://thomvand26.github.io/chatbot-demo/
-<iframe src="https://thomvand26.github.io/chatbot-demo/" width="100%" height="500px" style="border: none"></iframe>
+Link naar de live demo: https://thomvand26.github.io/chatbot-demo/
 
 Als je 'hallo chatbot', 'Hallo, chatbot', ... zegt, zal hij reageren met 'Hallo gebruiker!'.
 
